@@ -1,0 +1,84 @@
+Testing sorting of LibraryLinkedList size =  100
+     3.53520ms Selection Sort Time
+     0.70340ms Selection Sort Time on sorted list
+     1.69830ms Insertion Sort Time
+     0.07060ms Insertion Sort Time on sorted list
+     0.23240ms Shell Sort Time
+     0.17840ms Shell Sort Time on sorted list
+     0.28130ms Merge Sort Time
+     0.23940ms Merge Sort Time on sorted list
+     0.17040ms Quick Sort Time
+     0.53260ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of LibraryLinkedList size =  200
+     0.93710ms Selection Sort Time
+     0.74060ms Selection Sort Time on sorted list
+     0.62920ms Insertion Sort Time
+     0.05380ms Insertion Sort Time on sorted list
+     0.31580ms Shell Sort Time
+     0.15940ms Shell Sort Time on sorted list
+     0.75120ms Merge Sort Time
+     0.51620ms Merge Sort Time on sorted list
+     0.38450ms Quick Sort Time
+     1.30840ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of LibraryLinkedList size =  400
+     3.69690ms Selection Sort Time
+     3.86540ms Selection Sort Time on sorted list
+     3.09080ms Insertion Sort Time
+     0.07370ms Insertion Sort Time on sorted list
+     0.59620ms Shell Sort Time
+     0.38470ms Shell Sort Time on sorted list
+     0.42670ms Merge Sort Time
+     0.29580ms Merge Sort Time on sorted list
+     0.54120ms Quick Sort Time
+     3.14930ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of LibraryLinkedList size =  800
+     3.85140ms Selection Sort Time
+     3.72370ms Selection Sort Time on sorted list
+     2.32870ms Insertion Sort Time
+     0.09570ms Insertion Sort Time on sorted list
+     0.35570ms Shell Sort Time
+     0.21090ms Shell Sort Time on sorted list
+     0.58470ms Merge Sort Time
+     0.43080ms Merge Sort Time on sorted list
+     0.57500ms Quick Sort Time
+    10.45300ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of LibraryLinkedList size =  1600
+    18.01780ms Selection Sort Time
+    14.98350ms Selection Sort Time on sorted list
+    10.21660ms Insertion Sort Time
+     0.23180ms Insertion Sort Time on sorted list
+     0.87800ms Shell Sort Time
+     0.47360ms Shell Sort Time on sorted list
+     0.59920ms Merge Sort Time
+     0.35790ms Merge Sort Time on sorted list
+     1.42270ms Quick Sort Time
+    55.40200ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of LibraryLinkedList size =  3200
+    70.12380ms Selection Sort Time
+    56.19800ms Selection Sort Time on sorted list
+    41.20990ms Insertion Sort Time
+     0.59180ms Insertion Sort Time on sorted list
+     1.93700ms Shell Sort Time
+     1.26960ms Shell Sort Time on sorted list
+     1.07430ms Merge Sort Time
+     0.60980ms Merge Sort Time on sorted list
+     1.02260ms Quick Sort Time
+    45.80780ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of LibraryLinkedList size =  6400
+   211.76590ms Selection Sort Time
+   224.15670ms Selection Sort Time on sorted list
+   156.49490ms Insertion Sort Time
+     0.73350ms Insertion Sort Time on sorted list
+     4.73900ms Shell Sort Time
+     2.79910ms Shell Sort Time on sorted list
+     2.49330ms Merge Sort Time
+     1.55110ms Merge Sort Time on sorted list
+     2.35090ms Quick Sort Time
+   197.86440ms Quick Sort Time on sorted list
+------------------------

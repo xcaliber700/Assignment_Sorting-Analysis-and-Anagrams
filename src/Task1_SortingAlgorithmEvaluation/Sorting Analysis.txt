@@ -1,0 +1,37 @@
+Sorting Algorithm Analysis
+
+Student Name:Babanjot Singh
+
+1. Explain which algorithms have the best performance. Why are there differences in times? 
+
+Shell and merge sort have the best performances with increase in size of list. This is because of its complexity of o(n log n)
+where as selection sort and insertion sort goes through the whole list to sort everytime.
+
+
+2. Explain which algorithms have the best performance on sorted lists. Explain the differences from non-sorted lists.
+
+insertion sort has the best performance on sorted list. Sorted list for insertion sort is best case with o(n) complexity. where as non sorted list can have o(n^2).
+
+
+3. How does the time increase for each algorithm as the list size increases? Explain why.
+
+With increase in time selection, quick and insertion sort are greatly affected because of complexity o(n^2) where as merge has o(nlog n). 
+
+
+4. The sorting utility methods use the list interface methods for AList and LList. 
+	How does this affect the performance of each sorting algorithm?
+	LList decreases the performance rather than AList.
+  	What would you do to improve the performance of the sorting methods?
+   hashing can be used, or better data structures, doubly linked list can be used
+   
+   
+5. If you substitute LinkedList in ListUsingLibraryLinkedList, things slow down a lot. Similarly, if you use LList instead of AList.
+	Why is this?
+	As linked lists consist of nodes, accessing the nodes in middle is not possible so for every analysis whole list is traversed again and again.
+	
+	
+   
+6. Show the output from one of your test runs in separate text files
+	AListTimedSortOutput.txt
+	LibraryListSortOutput.txt
+

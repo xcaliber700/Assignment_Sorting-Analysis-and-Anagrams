@@ -1,0 +1,84 @@
+Testing sorting of AList size =  100
+     2.97420ms Selection Sort Time
+     1.39090ms Selection Sort Time on sorted list
+     0.97950ms Insertion Sort Time
+     0.05850ms Insertion Sort Time on sorted list
+     0.22450ms Shell Sort Time
+     0.13850ms Shell Sort Time on sorted list
+     0.22260ms Merge Sort Time
+     0.14540ms Merge Sort Time on sorted list
+     0.19680ms Quick Sort Time
+     0.39660ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of AList size =  200
+     0.79020ms Selection Sort Time
+     0.62370ms Selection Sort Time on sorted list
+     0.50720ms Insertion Sort Time
+     0.03640ms Insertion Sort Time on sorted list
+     1.24020ms Shell Sort Time
+     0.09930ms Shell Sort Time on sorted list
+     0.36600ms Merge Sort Time
+     0.25030ms Merge Sort Time on sorted list
+     0.17410ms Quick Sort Time
+     0.51470ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of AList size =  400
+     3.06990ms Selection Sort Time
+     3.28930ms Selection Sort Time on sorted list
+     1.67590ms Insertion Sort Time
+     0.07730ms Insertion Sort Time on sorted list
+     0.34100ms Shell Sort Time
+     0.44790ms Shell Sort Time on sorted list
+     0.29410ms Merge Sort Time
+     0.21410ms Merge Sort Time on sorted list
+     0.22030ms Quick Sort Time
+     1.88420ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of AList size =  800
+     3.49530ms Selection Sort Time
+     3.46660ms Selection Sort Time on sorted list
+     2.48780ms Insertion Sort Time
+     0.08610ms Insertion Sort Time on sorted list
+     0.32960ms Shell Sort Time
+     0.21040ms Shell Sort Time on sorted list
+     0.48920ms Merge Sort Time
+     0.35070ms Merge Sort Time on sorted list
+     0.54560ms Quick Sort Time
+     8.85210ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of AList size =  1600
+    16.55060ms Selection Sort Time
+    13.23710ms Selection Sort Time on sorted list
+    14.13780ms Insertion Sort Time
+     0.40880ms Insertion Sort Time on sorted list
+     0.86460ms Shell Sort Time
+     0.44000ms Shell Sort Time on sorted list
+     0.55270ms Merge Sort Time
+     0.33240ms Merge Sort Time on sorted list
+     4.94030ms Quick Sort Time
+    30.89190ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of AList size =  3200
+    75.29640ms Selection Sort Time
+    70.07900ms Selection Sort Time on sorted list
+    32.20630ms Insertion Sort Time
+     0.38930ms Insertion Sort Time on sorted list
+     1.73000ms Shell Sort Time
+     0.95750ms Shell Sort Time on sorted list
+     1.15880ms Merge Sort Time
+     0.61750ms Merge Sort Time on sorted list
+     1.08620ms Quick Sort Time
+    52.16110ms Quick Sort Time on sorted list
+------------------------
+Testing sorting of AList size =  6400
+   206.65790ms Selection Sort Time
+   214.37820ms Selection Sort Time on sorted list
+   129.86130ms Insertion Sort Time
+     0.61190ms Insertion Sort Time on sorted list
+     3.57080ms Shell Sort Time
+     2.80890ms Shell Sort Time on sorted list
+     2.11610ms Merge Sort Time
+     1.36090ms Merge Sort Time on sorted list
+     2.20940ms Quick Sort Time
+   182.60920ms Quick Sort Time on sorted list
+------------------------
